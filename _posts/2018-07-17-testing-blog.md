@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Andreina Launches Site"
+title: "Andre&iacute;na Launches Site"
 date: 2018-07-17
 ---
 
