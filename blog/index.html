@@ -7,9 +7,11 @@ title: Andre&iacute;na's Blog
 
 	  {% for post in site.posts %}
 	    <li> {% if post.feature-img %}
-    		<img class="feature-image" src={{ post.feature-img }} alt="Feature Image" width="42"/>
+    		<img class="feature-image" src={{ post.feature-img }} alt="Feature Image" width="50"/>
   		{% endif %}
-		    <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		    <p>{{ post.date | date_to_string }}</p> 
+		    
+		    <p><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p></li>
 		<hr>
 	  {% endfor %}
 	</ul>
