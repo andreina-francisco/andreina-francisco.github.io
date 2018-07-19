@@ -9,7 +9,7 @@ title: Andre&iacute;na's Blog
 	    <li> {% if post.feature-img %}
     		<img class="feature-image" src={{ post.feature-img }} alt="Feature Image" width="50"/>
   		{% endif %}
-		    {{ post.date | date_to_string }} >> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		    <span>{{ post.date | date_to_string }} >></span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		<hr>
 	  {% endfor %}
 	</ul>
