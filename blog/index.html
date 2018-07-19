@@ -6,8 +6,8 @@ title: Andre&iacute;na's Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li> {% if page.feature-img %}
-    		<img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+	    <li> {% if post.feature-img %}
+    		<img class="feature-image" src={{ post.feature-img }} alt="Feature Image"/>
   		{% endif %}
 		    <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 		<hr>
