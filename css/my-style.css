@@ -14,12 +14,14 @@ See the License for the specific language governing permissions and
 limitations under the License.
 *********************************************************************************/
 
+/* This is a modified version of the css file at http://jmcglone.com/guides/github-pages/ */
+
 /* Headers
 h1 {color:#3c0672; font-size:2.5em;}
 h1 a {color:#3c0672; text-transform:none;}
 */
 
-/* Testing css from http://jmcglone.com/guides/github-pages/ */
+
 
 body {
     margin: 60px auto;
@@ -37,7 +39,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #0074D9; /* old #999;*/
 }
 a:hover {
     text-decoration: underline;
