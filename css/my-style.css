@@ -39,11 +39,20 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #0074D9; /* old #999;*/
+    color: #999;
 }
 a:hover {
     text-decoration: underline;
 }
+
+a.text {
+    text-decoration: none;
+    color: #405d8c; 
+}
+a.text:hover {
+    text-decoration: underline;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
