@@ -75,3 +75,47 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/* From Joe's */
+
+.publist {
+	margin: 1.25em 0;
+}
+.pub {
+	margin-top: 0;
+	margin-bottom: 1.25em;
+}
+
+.title {
+	font-weight: bold;
+}
+.series {
+    font-style: italic;
+}
+.booktitle, .titleaddon {
+	font-style: italic;
+}
+.pub .year {
+	font: inherit;
+	font-weight: normal;
+}
+.sup{
+	vertical-align:super;
+	font-size:60%;
+}
+.acro {
+	font-variant: small-caps;
+}
+.bibtex {
+	padding: 5px;	
+	color: #333333;
+	font-size: .9em !important;
+	font-weight: normal;
+	font-style: normal;
+	font-family: monospace !important;
+	width: 500px;
+}
+.bibitem {
+	text-indent: -1em;
+	margin-left: 2em;
+}
