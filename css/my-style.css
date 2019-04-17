@@ -76,10 +76,12 @@ ul.posts li {
     list-style: none;
 }
 
-/* From Joe's */
+/* From Joe's (with minor changes)*/
 
 .publist {
 	margin: 1.25em 0;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	font-size: 1em;
 }
 .pub {
 	margin-top: 0;
