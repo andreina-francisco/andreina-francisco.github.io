@@ -6,10 +6,13 @@ title: Andre&iacute;na's Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li> {% if post.feature-img %}
+	  <li> {% if post.feature-img %}
+	    <a href="{{ post.url }}" title="{{post.title }}">{{ post.title }}</a>
     		<img class="feature-image" src={{ post.feature-img }} alt="Feature Image" width="50"/>
   		{% endif %}
-		    <span>{{ post.date | date_to_string }} >></span> <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		    <span>{{ post.date | date_to_string }}
+		    >></span> xx
+	    </li>
 		<hr>
 	  {% endfor %}
 	</ul>
