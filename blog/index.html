@@ -9,7 +9,7 @@ title: Andre&iacute;na's Blog
 	  <li> {% if post.feature-img %}
 	    <h2><a href="{{ post.url }}" title="{{post.title }}">{{post.title }}</a></h2>
 
-	    <p>{{ post.excerpt }}</p>
+	    {{ post.excerpt }}
 	    
     		<center><img class="feature-image" src={{ post.feature-img }} alt="Feature Image" width="100"/></center>
   		{% endif %}
