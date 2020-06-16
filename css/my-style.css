@@ -67,6 +67,10 @@ footer {
     font-size: .8em;
 }
 
+ul {
+    color: #333;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1em;
