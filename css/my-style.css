@@ -125,3 +125,8 @@ ul.posts li {
 	text-indent: -1em;
 	margin-left: 2em;
 }
+
+.poster-on {
+    color: #333333;
+    font-size: 1em;
+}
