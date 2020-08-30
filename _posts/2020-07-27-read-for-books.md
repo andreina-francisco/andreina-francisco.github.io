@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Read for Books 2020"
-date: 2020-07-24
+date: 2020-07-27
 feature-img: "/blog/images/2020-07-27-read-for-books.jpg"
 ---
 
