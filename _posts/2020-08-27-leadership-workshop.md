@@ -6,7 +6,7 @@ feature-img: "/blog/images/2020-08-27-leadership-workshop.jpg"
 ---
 
 One of those things that have been in the back of my mind for a very
-long time is hearing Asa Cajander talk about leadership courses.  I've
+long time is hearing Åsa Cajander talk about leadership courses.  I've
 heard her talk about how useful and inspiring those courses can be, and
 she even wrote a [blog post](https://www.asacajander.se/2019/06/05/celebrating-finishing-my-10th-leadership-course/) about how many leadership courses she has taken!
 
