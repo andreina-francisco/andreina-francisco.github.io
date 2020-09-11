@@ -10,7 +10,7 @@ long time is hearing Asa Cajander talk about leadership courses.  I've
 heard her talk about how useful and inspiring those courses can be, and
 she even wrote a [blog post](https://www.asacajander.se/2019/06/05/celebrating-finishing-my-10th-leadership-course/) about how many leadership courses she has taken!
 
-So, by the time I came across this 2-day (curious about leadership workshop)[https://mp.uu.se/en/web/info/anstallning/kompetensutveckling/akademisktledarskap/nyfiken-pa-ledarskap], I knew I
+So, by the time I came across this 2-day [curious about leadership workshop](https://mp.uu.se/en/web/info/anstallning/kompetensutveckling/akademisktledarskap/nyfiken-pa-ledarskap), I knew I
 had to apply.  Fortunately for me, I was accepted, and I just finished it last week.
 The course was great! I found it enlightening and inspiring and I can
 understand why anyone could benefit from taking many others at
