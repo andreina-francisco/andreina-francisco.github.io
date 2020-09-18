@@ -1,4 +1,12 @@
+# Site settings
+title: Personal Website of Maria Andreina Francisco Rodriguez
 name: Maria Andreina Francisco Rodriguez
+description: > # this means to ignore newlines until "baseurl:"
+This is the personal website of Maria Andreina Francisco Rodriguez.
+It contains information about my research and teaching, as well as blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap
