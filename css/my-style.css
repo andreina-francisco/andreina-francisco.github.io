@@ -131,3 +131,9 @@ ul.posts li {
     color: #808080;
     font-size: 0.9em;
 }
+
+.posted-on {
+    font-size: 0.9em;
+    font-weight: bold;
+    font-family: monospace !important;
+}
