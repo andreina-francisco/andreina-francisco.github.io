@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Ready for the Autum Term"
+title: "Getting Ready for the Autumn Term"
 date: 2021-08-19
 feature-img: "/blog/images/2021-08-19-ai-course.png"
 ---
