@@ -5,8 +5,9 @@ date: 2021-08-19
 feature-img: "/blog/images/2021-08-19-ai-course.png"
 ---
 
-It's that time of the year, when the Swedish summer is over, we're all back to work and getting ready to start teaching very soon.
+It's that time of the year, when the Swedish summer is over, we're all back to work, and we're getting ready to start teaching very soon.
 I'm very excited that I get to teach the artificial intelligence course again this year and I'm looking forward to meeting tons of amazing students again.
+It's simply my favourite course!
 We're going to back to on-campus teaching, and even though I'm looking forward to spending less time in front of the computer and more time seeing people
 in person, I'm not sure how well it will all work.
 
