@@ -87,7 +87,7 @@ ul.posts li {
 	margin: 1.25em 0;
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 	font-size: 1em;
-	list-style: none
+	list-style-type: none;
 }
 .pub {
 	margin-top: 0;
