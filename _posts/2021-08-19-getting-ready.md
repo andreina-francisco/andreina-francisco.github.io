@@ -10,6 +10,6 @@ I'm very excited that I get to teach the artificial intelligence course again th
 We're going to back to on-campus teaching, and even though I'm looking forward to spending less time in front of the computer and more time seeing people
 in person, I'm not sure how well it will all work.
 
-For now I just prepared a short 5-min introductory video to the course that I hope prospective students find very informative!
+For now, I just prepared a short 5-min introductory video to the course that I hope prospective students will find very informative!
 
 <iframe width="560px" height="320px" allowfullscreen="true" src="https://uppsala.instructuremedia.com/embed/e82f2537-9dcc-470d-a954-0f4c8208d606" frameborder="0"></iframe>
