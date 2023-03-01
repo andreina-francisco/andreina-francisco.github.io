@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Successful proposal for a postdoc position in equal opportunities aspects in IT"
+title: "Successful Proposal for a Postdoc Position in Equal Opportunities Aspects in IT"
 feature-img: "/blog/images/2023-03-01-postdoc-cake.jpeg"
 date: 2023-03-01
 ---
