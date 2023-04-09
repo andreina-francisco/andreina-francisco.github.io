@@ -12,7 +12,7 @@ You have now the opportunity to apply for a PhD position in applied mathematics 
 </p>
 
 
-For [applying](https://www.uu.se/en/about-uu/join-us/details/?positionId=596823) to the position, submit a full application and you state that you would like to apply to our project.
+For [applying](https://www.uu.se/en/about-uu/join-us/details/?positionId=596823) to the position, submit a full application and state that you would like to apply to our project.
 
 **Deadline to apply: March 24th, 2023**
 
