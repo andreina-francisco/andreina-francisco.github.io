@@ -5,7 +5,7 @@ date: 2023-03-20
 feature-img: "https://cdn.varbi.com/209/ef5d033f4c9fc4cf52a863eadf2848d2.jpg"
 ---
 
-You have now the opportunity to apply for an interdisciplinary postdoctoral position with me in Computer Science with a focus on Professional Competences and Equal Opportunities at Uppsala University. We seek a postdoctoral fellow in computer science, education and related fields whose role in the project will be to lead the main research efforts and to contribute to the advancement of groundbreaking research, in a diverse, interdisciplinary environment. The duties include method development, evaluation and analysis. The project includes both qualitative and quantitative methods; the former from computing education research and the latter from data science.
+You have now the opportunity to [apply](https://www.jobb.uu.se/details/?positionId=607358) for an interdisciplinary postdoctoral position with me in Computer Science with a focus on Professional Competences and Equal Opportunities at Uppsala University. We seek a postdoctoral fellow in computer science, education and related fields whose role in the project will be to lead the main research efforts and to contribute to the advancement of groundbreaking research, in a diverse, interdisciplinary environment. The duties include method development, evaluation and analysis. The project includes both qualitative and quantitative methods; the former from computing education research and the latter from data science.
 
 This postdoctoral position is a 2-year career-development appointment focused on research, and includes a limited amount of teaching (20%). 
 
