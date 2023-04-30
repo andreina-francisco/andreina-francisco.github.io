@@ -10,4 +10,6 @@ This time we read mostly books in English, which included "Panda Bear, Panda Bea
 
 I hope we can participate again next year!
 
+<p align="center">
 <img src="/blog/images/2019-08-01-read-for-books.jpg" width="300">
+</p>
