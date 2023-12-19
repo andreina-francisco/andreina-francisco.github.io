@@ -11,7 +11,7 @@ This postdoctoral position is a 2-year career-development appointment focused on
 
 The position is funded by and takes place in the context of the department’s initiative to strengthen its research on equal opportunities aspects in IT.
 
-The candidate will be hosted by UpCERG, Uppsala Computing Education Research Group at the Information Technology Department and will be working very closely with the local and international collaborators. In particular, the project is led by an interdisciplinary group of researchers and teachers from both the Computing Science Division and Vi3.
+The candidate will be hosted by UpCERG, Uppsala Computing Education Research Group at the Department of Information Technology and will be working very closely with the local and international collaborators. In particular, the project is led by an interdisciplinary group of researchers and teachers from both the Computing Science Division and Vi3.
 
 <p align="center">
 <img src="https://cdn.varbi.com/209/ef5d033f4c9fc4cf52a863eadf2848d2.jpg" width="600">
