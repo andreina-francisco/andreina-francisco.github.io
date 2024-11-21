@@ -5,7 +5,7 @@ date: 2024-11-21
 feature-img: "/blog/images/2013-12-nya-angstrom.jpg"
 ---
 
-I'm very excited about giving seminar next month as part of SOAF's seminar serie about optimisation problems that arise in the context of drug testing and laboratory experiments.  The talk is titled "From Drug Combinations to Microplates: Solving Optimisation Problems in Drug Testing", and I'll talk about my ongoing collaboration with the Pharmaceutical Bioinformatics research group (Pharmbio) at Uppsala University.
+I'm very excited about giving seminar next month as part of SOAF's seminar series about optimisation problems that arise in the context of drug testing and laboratory experiments.  The talk is titled "From Drug Combinations to Microplates: Solving Optimisation Problems in Drug Testing", and I'll talk about my ongoing collaboration with the Pharmaceutical Bioinformatics research group (Pharmbio) at Uppsala University.
 
 Date: December 12 at 12:15-13:00
 
