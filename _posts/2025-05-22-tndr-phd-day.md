@@ -14,5 +14,5 @@ I remember attending TNDR meetings and events as a PhD student. Now it feels bot
 </p>
 
 <p align="center">
-<img src="/blog/images/2025-05-22-tndr-panel.jpg" width="300">
+<img src="/blog/images/2025-05-22-tndr-panel.jpg" width="600">
 </p>
