@@ -11,5 +11,6 @@ Creating the poster was a rewarding challenge—I aimed to present optimisation 
 
 Here is a picture of the Swedish version from today :-)
 
+<p align="center">
 <img src="/blog/images/2025-04-optimisation.jpg" width="300">
-
+</p>
